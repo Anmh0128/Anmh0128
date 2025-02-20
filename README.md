@@ -21,5 +21,5 @@ As an engineering student, I gained experience in projects in both software and 
 - 🤔 I’m looking for help with finding a job
 - 💬 Ask me about ...
 - 📫 How to reach me: minhyeok.ca@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a Korean who grew up in the Philippines
 
