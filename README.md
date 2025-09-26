@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Minhyeok An
 <h3 align="center">A passionate Computer Engineering Student from South Korea</h3>
-I have a great interest in Computer Architecture and Verilog systems using Arduino. I am also interested in assembly languages and challenge myself to do different activities. I learn from my mistakes and always try to improve from it. I like learning new things and challenging problem-solving questions for further improvement and development of myself.
+I have a great interest in Computer Architecture and Verilog/VHDL and SystemVerilog systems and Arduino. I am also interested in assembly languages and challenge myself to do different activities. I learn from my mistakes and always try to improve from it. I like learning new things and challenging problem-solving questions for further improvement and development of myself.
 
 <h2 align="center">Education</h2>
 <h3 align="center">York University - Computer Engineering</h3>
