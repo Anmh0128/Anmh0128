@@ -1,10 +1,10 @@
 ## Hi there 👋 My name is Minhyeok An
 <h3 align="center">A passionate Computer Engineering Student from South Korea</h3>
-I have a great interest in Computer Architecture and Verilog/VHDL and SystemVerilog systems and Arduino. I am also interested in assembly languages and challenge myself to do different activities. I learn from my mistakes and always try to improve from it. I like learning new things and challenging problem-solving questions for further improvement and development of myself.
+I have a great interest in Computer Architecture and Verilog/VHDL and SystemVerilog systems and Arduino. I am also interested in assembly languages and challenge myself to do different activities. I learn from my mistakes and always try to improve from them. I like learning new things and challenging problem-solving questions for further improvement and development of myself.
 
 <h2 align="center">Education</h2>
 <h3 align="center">York University - Computer Engineering</h3>
-As an engineering student, I gained experience in projects in both software and hardware. I was willing to learn from both of these courses so I took the opportunity to gain some experiences from them and was willing to learn more related.
+As an engineering student, I gained experience in projects in both software and hardware. I was willing to learn from both of these courses, so I took the opportunity to gain some experience from them and was willing to learn more related.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@ As an engineering student, I gained experience in projects in both software and 
 
 - 🔭 I’m currently working on a personal project using RISC-V 5-stage pipeline
 - 🌱 I’m currently learning Computer Engineering at York University
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on an open source project on GitHub for LLVM
 - 🤔 I’m looking for help with finding a job
 - 💬 Ask me about ...
 - 📫 How to reach me: minhyeok.ca@gmail.com
